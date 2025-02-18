@@ -30,6 +30,16 @@ And many more.
 
 These are sample datasets and subsets derived from dozens of **e-commerce datasets (public data)** containing millions of records.
 
+## Popular eCommerce datasets:
+- [Amazon Dataset](https://brightdata.com/products/datasets/amazon)
+- [Walmart Dataset](https://brightdata.com/products/datasets/walmart)
+- [Target Dataset](https://brightdata.com/products/datasets/target)
+- [eBay Dataset](https://brightdata.com/products/datasets/ebay)
+- [Zara Dataset](https://brightdata.com/products/datasets/zara)
+- [Home Depot Dataset](https://brightdata.com/products/datasets/home-depot)
+
+  **And many more.**
+
 ## Available Dataset File Formats:
 
 - **JSON**, **NDJSON**, **JSON Lines**, **CSV**, or **Parquet**
