@@ -60,6 +60,20 @@ Monitor competitor pricing, discounts, and promotions to implement dynamic prici
 ### 3. Consumer Sentiment Analysis
 Analyze reviews, ratings, and feedback to understand customer sentiment toward specific products or categories and improve your offerings.
 
-## Free Access for Researchers and NGOs
+### Free Access for Researchers and NGOs
 
 The Bright Initiative provides free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic faculties, researchers, NGOs, and NPOs working on environmental or social causes. Submit your application [here](https://brightinitiative.com).
+
+### Want to scrape e-commerce websites yourself? Use our [eCommerce Scraper API](https://brightdata.com/products/web-scraper/ecommerce)
+Popular ecommerce scrapers:
+- [Amazon Scraper](https://brightdata.com/products/web-scraper/amazon)
+- [Walmart Scraper](https://brightdata.com/products/web-scraper/walmart)
+- [Target Scraper](https://brightdata.com/products/web-scraper/target)
+- [eBay Scraper](https://brightdata.com/products/web-scraper/ebay)
+- [Zara Scraper](https://brightdata.com/products/web-scraper/zara)
+- [Home Depot Scraper](https://brightdata.com/products/web-scraper/homedepot)
+
+**And many more.**
+
+
+
