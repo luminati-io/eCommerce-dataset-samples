@@ -33,7 +33,7 @@ And many more.
 These are sample datasets and subsets derived from dozens of **e-commerce datasets (public data)** containing millions of records.
 
 <a href="https://brightdata.com/products/datasets/ecommerce">
-   <img src="https://github.com/luminati-io/ecommerce-dataset-samples/blob/main/dataset-promotions.png" alt="social media datasets" />
+   <img src="https://github.com/luminati-io/ecommerce-dataset-samples/blob/main/dataset-promotions.png" alt="ecommerce datasets" />
 </a>
 
 ## Popular eCommerce datasets:
