@@ -2,7 +2,9 @@
 
 ## A collection of sample e-commerce datasets, each containing over 1,000 records.
 
-![E-commerce dataset header](https://github.com/luminati-io/ecommerce-dataset-samples/blob/main/eCommerce-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/ecommerce">
+   <img src="https://github.com/luminati-io/ecommerce-dataset-samples/blob/main/ecommerce-datasets.png" alt="ecommerce datasets" />
+</a>
 
 E-commerce dataset samples featuring thousands of records in total. All datasets were extracted using the **Bright Data API**.
 
@@ -29,6 +31,10 @@ E-commerce dataset samples featuring thousands of records in total. All datasets
 And many more.
 
 These are sample datasets and subsets derived from dozens of **e-commerce datasets (public data)** containing millions of records.
+
+<a href="https://brightdata.com/products/datasets/ecommerce">
+   <img src="https://github.com/luminati-io/ecommerce-dataset-samples/blob/main/dataset-promotions.png" alt="social media datasets" />
+</a>
 
 ## Popular eCommerce datasets:
 - [Amazon Dataset](https://brightdata.com/products/datasets/amazon)
